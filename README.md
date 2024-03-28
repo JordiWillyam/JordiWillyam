@@ -2,6 +2,7 @@
 
 Saya adalah seorang Mahasiswa di Universitas Multi Data Palembang.
 
+[Info Universitas](https://mdp.ac.id/en/)
 ## Profil : 
 - Nama : Jordi Willyam Adi Kusuma
 - NPM  : 2226240138
