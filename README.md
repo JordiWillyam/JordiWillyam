@@ -7,7 +7,7 @@ Saya adalah seorang Mahasiswa di Universitas Multi Data Palembang.
 - Nama : Jordi Willyam Adi Kusuma
 - NPM  : 2226240138
 - Jurusan : Sistem Informasi
-- Semester : 4 (2024)
+- Semester : <8 (2024)
 
 ## ⚡ Teknologi yang telah dipelajari : 
 
