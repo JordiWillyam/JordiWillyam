@@ -1,6 +1,6 @@
 # Halo, Saya Jordi Selamat Datang di Repository Saya👋
 
-Saya adalah seorang Mahasiswa di Universitas Multi Data Palembang.
+Saya Mahasiswa dari Universitas Multi Data Palembang.
 
 [Info Universitas](https://mdp.ac.id/en/)
 ## Profil : 
